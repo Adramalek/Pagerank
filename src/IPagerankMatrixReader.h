@@ -1,0 +1,12 @@
+//
+// Created by User on 12.03.2018.
+//
+
+#ifndef PAGERANK_IPAGERANKMATRIXREADER_H
+#define PAGERANK_IPAGERANKMATRIXREADER_H
+
+struct IPagerankMatrixReader {
+
+};
+
+#endif //PAGERANK_IPAGERANKMATRIXREADER_H
