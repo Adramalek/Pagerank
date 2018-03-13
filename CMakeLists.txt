@@ -8,6 +8,6 @@ set(SOURCE_FILES
     src/pagerank.cpp
     src/pagerank.h
     src/utils.cpp
-    src/utils.h src/IPagerankMatrixReader.h)
+    src/utils.h src/ipagerankio.h src/ipagerankio.cpp)
 
 add_executable(Pagerank ${SOURCE_FILES})
